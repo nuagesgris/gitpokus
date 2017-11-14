@@ -1,0 +1,2 @@
+# gitpokus
+Pokusny repozitar
