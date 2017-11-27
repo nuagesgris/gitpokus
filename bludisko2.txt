@@ -1,14 +1,3 @@
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-x@.x...x.........x........xxx..........x
-x....xxx.xxxxxxx.x.xxxxxx...xxxxxxxxxx.x
-x..x..xx.x.......x.x......x............x
-x..x...x.xxxxxxxx.x..xxxxxxxxxxxxxxx.xxx
-xxxx.x.x........x.x.x..........x...x...x
-x....x.x.xxxx.x.x.x
-x.x....x.x.xx.x.x.x.x.x.x.x.x......x...x
-x.xxxx.x.x.xx.x.x.x.x.x.x.x.xxxxxxxxxxxx
-
-x.x....x.x.....xx.x.x.x.x...........x..x
-x.xxxx.x.xxxxxxxx.x.x.xxxxxxxx.xxxxxxx.x
+xxxxxxxx
 x....................................x.x
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx#x
